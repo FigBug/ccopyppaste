@@ -1,0 +1,13 @@
+ccopyppaste is a set of command line utilities that bridges the gap between the GUI and the command line.
+
+It allows you to copy/cut from the command line and paste into explorer and other GUI applications and vise versa.
+
+It works with files and text.
+
+Usage:
+
+ccopy *.txt   // copy all txt files to clipboard, can be pasted in explorer
+dir | ccopy   // copy output of dir to clipboard, can be pasted in notepad
+ppaste        // pastes files on clipboard to currect directory or text on clipboard to console (-v outputs filenames on clipboard to console)
+
+Released under BSD License

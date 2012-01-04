@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ccopy", "ccopy.vcproj", "{BCC8D959-814C-4FA8-95FE-B52381988047}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ccut", "ccut.vcproj", "{FFF7019F-13BA-47BE-9BAF-E1353052318D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ppaste", "ppaste.vcproj", "{4B25CFE5-6C1E-4026-B5C2-D01FBFDF5AA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC8D959-814C-4FA8-95FE-B52381988047}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BCC8D959-814C-4FA8-95FE-B52381988047}.Debug|Win32.Build.0 = Debug|Win32
+		{BCC8D959-814C-4FA8-95FE-B52381988047}.Release|Win32.ActiveCfg = Release|Win32
+		{BCC8D959-814C-4FA8-95FE-B52381988047}.Release|Win32.Build.0 = Release|Win32
+		{FFF7019F-13BA-47BE-9BAF-E1353052318D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FFF7019F-13BA-47BE-9BAF-E1353052318D}.Debug|Win32.Build.0 = Debug|Win32
+		{FFF7019F-13BA-47BE-9BAF-E1353052318D}.Release|Win32.ActiveCfg = Release|Win32
+		{FFF7019F-13BA-47BE-9BAF-E1353052318D}.Release|Win32.Build.0 = Release|Win32
+		{4B25CFE5-6C1E-4026-B5C2-D01FBFDF5AA4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4B25CFE5-6C1E-4026-B5C2-D01FBFDF5AA4}.Debug|Win32.Build.0 = Debug|Win32
+		{4B25CFE5-6C1E-4026-B5C2-D01FBFDF5AA4}.Release|Win32.ActiveCfg = Release|Win32
+		{4B25CFE5-6C1E-4026-B5C2-D01FBFDF5AA4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
